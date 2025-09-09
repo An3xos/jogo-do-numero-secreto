@@ -28,7 +28,7 @@ let resultadoQuadrado = elevarQuadrado(5);
 console.log(resultadoQuadrado);*/
 
 let numerosSorteados=[];
-let quantidadeMaximaDeNumeros = 10;
+let quantidadeMaximaDeNumeros = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 mensagemInicial();
